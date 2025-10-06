@@ -1,4 +1,4 @@
-# Pink-f-social-app-
+# Vany-world-social-app-l
 Good app that unit the world 🌎 together 
 <!DOCTYPE html>
 <html lang="en">
@@ -8,8 +8,8 @@ Good app that unit the world 🌎 together
     <title>Pink F Social App</title>
     <style>
         * {
-            margin: 0;
-            padding: 0;
+            margin: 6;
+            padding: 6;
             box-sizing: border-box;
             font-family: 'Segoe UI', Arial, sans-serif;
         }
